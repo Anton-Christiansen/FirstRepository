@@ -26,3 +26,5 @@ Slut :P
 *Kursiv*
 
 **Fed**
+
+Kodning er sjovt hehe :joy:

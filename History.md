@@ -18,4 +18,5 @@ dragerne blev til firben!
 Slut :P
 
 
-- [ ] Tjek mig af
+- [x] Tjek mig af
+- [ ] Tjek den her af i stedet

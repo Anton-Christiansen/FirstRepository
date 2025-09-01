@@ -43,3 +43,12 @@ X^2^
 ==Hello==
 
 ~~Nej~~
+
+1. git config --global user.name ""
+2. git config --global user.email ""
+3. git clone ""
+4. git status
+5. git pull
+5. git add .
+6. git commit -m ""
+7. git push (tilbage til step 4)

@@ -28,3 +28,9 @@ Slut :P
 **Fed**
 
 Kodning er sjovt hehe :joy:
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |

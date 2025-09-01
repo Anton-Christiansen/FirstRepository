@@ -19,4 +19,10 @@ Slut :P
 
 
 - [x] Tjek mig af
-- [ ] Tjek den her af i stedet
+- [x] Tjek den her af i stedet
+
+***Fed og kursiv***
+
+*Kursiv*
+
+**Fed**

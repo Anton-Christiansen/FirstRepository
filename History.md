@@ -34,3 +34,5 @@ Kodning er sjovt hehe :joy:
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+Disse er ==meget vigtige ord==.
